@@ -44,6 +44,26 @@
 | Ondex | [ondexcylxxxq6vcc62l3r2m6rypohvvymsvqeadhln5mjo73pf6ksjad.onion](http://ondexcylxxxq6vcc62l3r2m6rypohvvymsvqeadhln5mjo73pf6ksjad.onion) |
 | TORNET | [tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion](http://tornetupfu7gcgidt33ftnungxzyfq2pygui5qdoyss34xbgx2qruzid.onion) ⚠️ |
 
+## Social
+
+| Social | URL |
+| --- | --- |
+| Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
+| Ramble | [rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion) |
+| Dread | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
+| Reddit | [reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) |
+| Raddle | [c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion) |
+| Pitch | [pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion](http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion) ⚠️ |
+| Hidden Answers | [7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion](http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion) |
+| Hidden Answers | [lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion](http://lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion) |
+| Nitter | [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion) ⚠️ |
+| Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
+| Keybase | [keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion) |
+| Dig Deeper | [digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion) ⚠️ |
+| DEF CON | [ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion) |
+| Top Secret Chat | [ubnufmcwxttzsl723nbqg4mdzwzq6yjhyv75kgk2ygdh2c6ivwixipyd.onion](http://ubnufmcwxttzsl723nbqg4mdzwzq6yjhyv75kgk2ygdh2c6ivwixipyd.onion) |
+
+
 ## Wiki
 
 | Wiki | URL |
@@ -98,25 +118,6 @@
 | SecTor | [sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion](http://sector2nyjrxphgrj3cvnueanomz4trvgyxofvu3cexltoxuegtlmzid.onion)  ⚠️  |
 | riseup.net | [vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion](http://vww6ybal4bd7szmgncyruucpgfkqahzddi37ktceo3ah7ngmcopnpyyd.onion)    |
 
-## Social
-
-| Social | URL |
-| --- | --- |
-| Facebook | [facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion](http://facebookwkhpilnemxj7asaniu7vnjjbiltxjqhye3mhbshg7kx5tfyd.onion) |
-| Ramble | [rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion](http://rambleeeqrhty6s5jgefdfdtc6tfgg4jj6svr4jpgk4wjtg3qshwbaad.onion) |
-| Dread | [dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion](http://dreadytofatroptsdj6io7l3xptbet6onoyno2yv7jicoxknyazubrad.onion) |
-| Reddit | [reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion](https://www.reddittorjg6rue252oqsxryoxengawnmo46qy4kyii5wtqnwfj4ooad.onion) |
-| Raddle | [c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion](http://c32zjeghcp5tj3kb72pltz56piei66drc63vkhn5yixiyk4cmerrjtid.onion) |
-| Pitch | [pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion](http://pitchprash4aqilfr7sbmuwve3pnkpylqwxjbj2q5o4szcfeea6d27yd.onion) ⚠️ |
-| Hidden Answers | [7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion](http://7eoz4h2nvw4zlr7gvlbutinqqpm546f5egswax54az6lt2u7e3t6d7yd.onion) |
-| Hidden Answers | [lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion](http://lp2fkbyfmiefvscyawqvssyh7rnwfjsifdhebp5me5xizte3s47yusqd.onion) |
-| Nitter | [3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion](http://3nzoldnxplag42gqjs23xvghtzf6t6yzssrtytnntc6ppc7xxuoneoad.onion) ⚠️ |
-| Twitter | [twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion](https://twitter3e4tixl4xyajtrzo62zg5vztmjuricljdp2c5kshju4avyoid.onion) |
-| Keybase | [keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion](http://keybase5wmilwokqirssclfnsqrjdsi7jdir5wy7y7iu3tanwmtp6oid.onion) |
-| Dig Deeper | [digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion](http://digdeep4orxw6psc33yxa2dgmuycj74zi6334xhxjlgppw6odvkzkiad.onion) ⚠️ |
-| DEF CON | [ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion](http://ezdhgsy2aw7zg54z6dqsutrduhl22moami5zv2zt6urr6vub7gs6wfad.onion) |
-| Top Secret Chat | [ubnufmcwxttzsl723nbqg4mdzwzq6yjhyv75kgk2ygdh2c6ivwixipyd.onion](http://ubnufmcwxttzsl723nbqg4mdzwzq6yjhyv75kgk2ygdh2c6ivwixipyd.onion) |
-
 ## News
 
 | News | URL |
@@ -129,18 +130,6 @@
 | The Tor Times | [tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion](http://tortimeswqlzti2aqbjoieisne4ubyuoeiiugel2layyudcfrwln76qd.onion) |
 | New York Times | [nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion](https://www.nytimesn7cgmftshazwhfgzm37qxb44r64ytbb2dj3x62d2lljsciiyd.onion) |
 | BBC News | [bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion](https://www.bbcnewsd73hkzno2ini43t4gblxvycyac5aw4gnv7t2rccijh7745uqd.onion) |
-
-## Books
-
-| Books | URL |
-| --- | --- |
-| Bible4u | [bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion](http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) |
-| Imperial Library | [kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion) ⚠️ |
-| Just Another Library | [libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion) |
-| GenoType.INC | [libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion](http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion) ⚠️ |
-| Z-Library | [zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion) ⚠️ |
-| The Pirate Bay | [piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) |
-| Tor Guide | [guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion](http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion) |
 
 ## Markets
 
@@ -158,6 +147,20 @@
 | Private Key Shop | [iqosv7ozbt23jfbv22annsw6bqsvcjncmpmqtbfjy6d5s4e66qku3sad.onion](http://iqosv7ozbt23jfbv22annsw6bqsvcjncmpmqtbfjy6d5s4e66qku3sad.onion) |
 | Top Money | [money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion](http://money76mmbh7dnuq6en3b6d7hmvm4fuolkser2ui7u46ib2utrjnw4ad.onion) ⚠️ |
 | Tor Guns | [gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion](http://gunsiqvaicyzyq7xqm2c3xshl6pjegtxjf3m3ldms2fo52lqvrmvbyyd.onion) |
+
+## Books
+
+| Books | URL |
+| --- | --- |
+| Bible4u | [bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion](http://bible4u2lvhacg4b3to2e2veqpwmrc2c3tjf2wuuqiz332vlwmr4xbad.onion) |
+| Imperial Library | [kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion](http://kx5thpx2olielkihfyo4jgjqfb7zx7wxr3sd4xzt26ochei4m6f7tayd.onion) ⚠️ |
+| Just Another Library | [libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion](http://libraryfyuybp7oyidyya3ah5xvwgyx6weauoini7zyz555litmmumad.onion) |
+| GenoType.INC | [libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion](http://libgenfrialc7tguyjywa36vtrdcplwpxaw43h6o63dmmwhvavo5rqqd.onion) ⚠️ |
+| Z-Library | [zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion](http://zlibrary24tuxziyiyfr7zd46ytefdqbqd2axkmxm4o5374ptpc52fad.onion) ⚠️ |
+| The Pirate Bay | [piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion](http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion) |
+| Tor Guide | [guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion](http://guideeedvgbpkthetphncab5aqj7dp5t74y7vxsoonnvmaeamq74vuqd.onion) |
+
+
 
 ## Other
 
